@@ -1,0 +1,1 @@
+# small-tauri-app
